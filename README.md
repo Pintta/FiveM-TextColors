@@ -30,9 +30,6 @@ For notification:
 ^6 = Pink
 ^7 = white
 ^8 is a color that changes depending what level you are on.
-American maps = Dark Green
-Russian maps = Dark red/marroon
-British maps = Dark Blue
 ^9 = gray
 ^0= black
 ^c = Blandishbeige
