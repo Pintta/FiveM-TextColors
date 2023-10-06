@@ -1,6 +1,7 @@
 # FiveM-TextColors
 This is simple guide for Fivem Text Colors
 ```lua
+Can use script text:
 ~r~ = Red
 ~b~ = Blue
 ~g~ = Green
@@ -21,7 +22,7 @@ For notification:
 ÷ = Rockstar Icon
 ¦ = Rockstar Verified Icon
 
-
+Can use to server title:
 ^1 = red
 ^2 = green
 ^3 = yellow
