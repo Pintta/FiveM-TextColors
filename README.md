@@ -1,15 +1,15 @@
 # FiveM-TextColors
 This is simple guide for Fivem Text Colors
-
-- ~r~ = Red
-- ~b~ = Blue
-- ~g~ = Green
-- ~y~ = Yellow
-- ~p~ = Purple
-- ~c~ = Grey
-- ~m~ = Dark Grey
-- ~u~ = Black
-- ~o~ = Orange
+```lua
+~r~ = Red
+~b~ = Blue
+~g~ = Green
+~y~ = Yellow
+~p~ = Purple
+~c~ = Grey
+~m~ = Dark Grey
+~u~ = Black
+~o~ = Orange
 
 Special:
 ~n~ = New line
@@ -40,3 +40,4 @@ MrDaGree
 Apr '17
 
 ^0 is based on the RGB of the message sent
+```
