@@ -36,8 +36,6 @@ British maps = Dark Blue
 ^9 = gray
 ^0= black
 ^c = Blandishbeige
-MrDaGree
-Apr '17
 
 ^0 is based on the RGB of the message sent
 ```
